@@ -1,0 +1,13 @@
+{
+  "name": "brackets-typescript-lsp",
+  "version": "1.0.0",
+  "description": "Advanced Tooling support for TypeScript",
+  "author": "albert200000",
+  "main": "main.js",
+  "dependencies": {
+    "execa": "1.0.0",
+    "semver": "5.6.0",
+    "typescript": "4.7.4",
+    "typescript-language-server": "0.11.2"
+  }
+}
